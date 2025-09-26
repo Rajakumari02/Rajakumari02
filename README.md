@@ -1,7 +1,22 @@
-- 👋 Hi, I’m @Rajakumari02
-- 👀 I’m interested in programming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me rengaraji024@gmail.co.
+# 👋 Hi, I'm Rajakumari  
+
+👩‍💻 I love turning ideas into code
+💻 Passionate about coding and solving real-world problems  
+🚀 Exploring **Machine Learning**, **Data Analytics**, and **Backend Development**  
+🤝 Open to collaborating on impactful tech projects  
+📬 Reach me at **rengaraji024@gmail.com**  
+
+---
+
+## 🛠️ Skills & Tools  
+- **Languages:** Python, Java, SQL  
+- **Frameworks:** Spring Boot, TensorFlow, PyTorch  
+- **Databases:** PostgreSQL, BigQuery  
+- **Tools & Platforms:** Git, GitHub, Vercel
+
+---
+
+⭐ *“Keep learning, keep building.”*  
 
 <!---
 Rajakumari02/Rajakumari02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
